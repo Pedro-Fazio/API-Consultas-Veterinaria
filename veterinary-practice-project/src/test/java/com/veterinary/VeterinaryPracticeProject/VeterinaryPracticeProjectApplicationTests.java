@@ -15,5 +15,4 @@ class VeterinaryPracticeProjectApplicationTests {
 	void contextLoads() {
 		assertTrue(true);
 	}
-
 }
